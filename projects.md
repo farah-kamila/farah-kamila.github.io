@@ -34,4 +34,12 @@ permalink: /projects/
 <img src="https://img.shields.io/badge/ggplot2-blue?logo=R">
 <img src="https://img.shields.io/badge/tidyverse-blue?logo=R">
 
+## Bioinformatics Analysis of Differential Gene Expression
+- Applied DESeq2 (R/Bioconductor) to analyze RNA-seq data, identifying 296 differentially expressed genes (DEGs) between Plasmodium SBP (lab-adapted) and MT (mosquito-transmitted) strains, and revealing 133 SBP-upregulated (e.g., PCHAS_1100300) and 163 MT-upregulated genes linked to transmission.
+- Used tidyverse (ggplot2, dplyr) to visualize DEGs through a volcano plot and matrix plot.
+<br><br>
+<img src="https://img.shields.io/badge/RStudio-white?logo=R&logoColor=blue">
+<img src="https://img.shields.io/badge/BioConductor-blue?logo=R">
+<img src="https://img.shields.io/badge/tidyverse-blue?logo=R">
+
 [back](./)
