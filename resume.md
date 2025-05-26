@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resumé
+permalink: /resume/
 ---
 
 ## Professional Experience & Certifications
