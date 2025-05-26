@@ -8,7 +8,7 @@ Bachelor of Science graduate with a specialization in genomics and bioinformatic
 
 ## Education
 **_B.Sc., Genomics and Bioinformatics_** | **Monash University**
-- _Coursework_: Biology, Chemistry, Statistics, Biotechnology, Biochemistry, Anatomy, Microbiology, Genetics, Genomics, Bioinformatics, Pharmacology, Ecology, Java Programming, Mathematics
+- **_Coursework_**: Biology, Chemistry, Statistics, Biotechnology, Biochemistry, Anatomy, Microbiology, Genetics, Genomics, Bioinformatics, Pharmacology, Ecology, Java Programming, Mathematics
 
 ## Skills
 - **_Tools_**: Java, Python, R, Bash, Microsoft Office Suite, Google Workspace
