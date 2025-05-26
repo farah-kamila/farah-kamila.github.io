@@ -1,5 +1,7 @@
 title: Farah Kamila
 #show_downloads: true
 logo: /assets/img/Headshot_LinkedIn.jpg
-#description: Minimal is a theme for GitHub Pages.
+description: 
+<a href="/resume/" class="download">Resume</a>
+<a href="/projects/" class="download">Projects & Samples</a>
 theme: jekyll-theme-minimal
