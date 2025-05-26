@@ -4,7 +4,7 @@ title: Projects & Samples
 permalink: /projects/
 ---
 
-##[Analysis of _Mycobacterium tuberculosis_ using bioinformatics tools](/assets/pdf/Resume_250526_Sci.pdf)
+## [Analysis of _Mycobacterium tuberculosis_ using bioinformatics tools](/assets/pdf/Resume_250526_Sci.pdf)
 - Utilized Linux commands to execute data pre-processing (FastQC, Trimmomatic) and genome assembly (SPAdes, ABySS, SOAPdenovo2).
 - Executed genome annotation (RAST, Prokka), identifying 16S rRNA sequences and core genes for functional analysis.
 - Leveraged BLAST and R for phylogenetic tree construction, determining evolutionary relationships with other Mycobacterium species.
