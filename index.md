@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Bioinformatics Portfolio
 
 ## Profile
 Bachelor of Science graduate with a specialization in genomics and bioinformatics, passionate about applying computational approaches to biological problems. Proficient in Linux, Python, and R, with a strong foundation in data analysis and visualization. Demonstrated ability to conduct literature reviews, manage laboratory inventories, and adhere to standard operating procedures. Eager to apply data-driven approaches to advance health research initiatives in Qatar.
