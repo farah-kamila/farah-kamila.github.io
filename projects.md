@@ -13,14 +13,24 @@ permalink: /projects/
 <br><br>
 <img src="https://img.shields.io/badge/Bash-white?logo=gnubash">
 <img src="https://img.shields.io/badge/Python-white?logo=Python">
-<img src="https://img.shields.io/badge/RStudio-white?logo=R">
+<img src="https://img.shields.io/badge/RStudio-white?logo=RStudio">
 
 ## Comparative Genomic Analysis of Pathogenic and Non-Pathogenic _Mycobacterium_ Species
 - Conducted comparative genomic analysis on _M. tuberculosis_ CCDC5180, _M. abscessus_ ATCC19977 (pathogens), and _M. vanbaalenii_ PYR1 (non-pathogen) to assess functional gene distribution across 27 subsystem features.
 - Used R for data wrangling and visualization to reveal lower gene counts for “Virulence, Disease and Defense,” “Stress Response,” and “Cell Wall and Capsule” in the non-pathogenic strain.
+<br><br>
+<img src="Fig1.png">
+<img src="https://img.shields.io/badge/RStudio-white?logo=RStudio">
+<img src="https://img.shields.io/badge/ggplot2-blue?logo=R">
+<img src="https://img.shields.io/badge/tidyverse-blue?logo=R">
+<img src="https://img.shields.io/badge/reshape2-blue?logo=R">
 
 ## Species and Subspecies Delineation Using ANI and DDH in Mycobacterium Strains
 - Conducted pairwise comparisons of _Mycobacterium immunogenum_ and _Mycobacterium abscessus_ genomes using Average Nucleotide Identity (ANI) and DNA-DNA Hybridization (DDH) metrics to assess taxonomic relatedness.
 - Confirmed that M. immunogenum strains share ANI ≥95% and DDH ≥70%, supporting species-level classification, while CD116 strain’s DDH <80% indicated it forms a distinct subspecies.
+<br><br>
+<img src="Fig2.png">
+<img src="https://img.shields.io/badge/ggplot2-blue?logo=R">
+<img src="https://img.shields.io/badge/tidyverse-blue?logo=R">
 
 [back](./)
