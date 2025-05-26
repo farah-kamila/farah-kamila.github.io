@@ -19,7 +19,7 @@ permalink: /projects/
 - Conducted comparative genomic analysis on _M. tuberculosis_ CCDC5180, _M. abscessus_ ATCC19977 (pathogens), and _M. vanbaalenii_ PYR1 (non-pathogen) to assess functional gene distribution across 27 subsystem features.
 - Used R for data wrangling and visualization to reveal lower gene counts for “Virulence, Disease and Defense,” “Stress Response,” and “Cell Wall and Capsule” in the non-pathogenic strain.
 <br><br>
-<img src="Fig1.png">
+<img src="/assets/img/Fig1.png">
 <img src="https://img.shields.io/badge/RStudio-white?logo=R&logoColor=blue">
 <img src="https://img.shields.io/badge/ggplot2-blue?logo=R">
 <img src="https://img.shields.io/badge/tidyverse-blue?logo=R">
@@ -29,7 +29,7 @@ permalink: /projects/
 - Conducted pairwise comparisons of _Mycobacterium immunogenum_ and _Mycobacterium abscessus_ genomes using Average Nucleotide Identity (ANI) and DNA-DNA Hybridization (DDH) metrics to assess taxonomic relatedness.
 - Confirmed that M. immunogenum strains share ANI ≥95% and DDH ≥70%, supporting species-level classification, while CD116 strain’s DDH <80% indicated it forms a distinct subspecies.
 <br><br>
-<img src="Fig2.png">
+<img src="/assets/img/Fig2.png">
 <img src="https://img.shields.io/badge/RStudio-white?logo=R&logoColor=blue">
 <img src="https://img.shields.io/badge/ggplot2-blue?logo=R">
 <img src="https://img.shields.io/badge/tidyverse-blue?logo=R">
