@@ -27,7 +27,7 @@ permalink: /projects/
 
 ## Species and Subspecies Delineation Using ANI and DDH in _Mycobacterium_ Strains
 - Conducted pairwise comparisons of _Mycobacterium immunogenum_ and _Mycobacterium abscessus_ genomes using Average Nucleotide Identity (ANI) and DNA-DNA Hybridization (DDH) metrics to assess taxonomic relatedness.
-- Confirmed that M. immunogenum strains share ANI ≥95% and DDH ≥70%, supporting species-level classification, while CD116 strain’s DDH <80% indicated it forms a distinct subspecies.
+- Confirmed that _M. immunogenum_ strains share ANI ≥95% and DDH ≥70%, supporting species-level classification, while CD116 strain’s DDH <80% indicated it forms a distinct subspecies.
 <br><br>
 <img src="/assets/img/Fig2.png">
 <img src="https://img.shields.io/badge/RStudio-white?logo=R&logoColor=blue">
